@@ -28,4 +28,8 @@
 
 # Discord Presence 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689891585521221679)](https://discord.com/users/689891585521221679)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689891585521221679?theme=light&bg=738bd7&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/689891585521221679)
+  
+  
+  
+  
