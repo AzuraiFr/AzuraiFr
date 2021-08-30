@@ -1,5 +1,5 @@
 # Salut à toi 👋
-## Je suis Azurai.fr, développeur full-stack. 
+## Je suis Azurai.fr, développeur Web. 
 
 - 🔭 Je travail sur [FR・Skanix Community](discord.gg/KdDA2y539u).
 - 📫 Je t'invite à me rejoindre: [Discord](https://discord.com/users/689891585521221679).
